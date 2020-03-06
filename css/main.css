@@ -1955,8 +1955,12 @@ input::-moz-focus-inner {
   }
 
   .header-logo img {
-    width: 120px;
-    height: 34px;
+    width: 20%;
+  }
+
+  .cd-headline{
+    font-size: 3rem;
+    font-family: "Montserrat", sans-serif; 
   }
 
   .s-header.sticky .header-logo {
